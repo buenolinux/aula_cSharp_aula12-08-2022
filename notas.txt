@@ -1,3 +1,11 @@
 para mudar o nome do projeto 
 arquivo/ salvar form1 como
 mudar o nome do arquivo
+
+
+
+para mudar o nome do projeto 
+arquivo/ salvar form1 como
+mudar o nome do arquivo
+A propriedade enable desativa as coisas quando está como falso
+O atalho F7 server para abrir a área de código 
